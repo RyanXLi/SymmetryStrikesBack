@@ -1,0 +1,8 @@
+{
+    "exclude": [
+        "data/Ocrtoc",
+        "data/OmniObject3D",
+        "data/Pix3D",
+        "data/train_data"
+    ]
+}
